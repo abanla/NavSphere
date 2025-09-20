@@ -946,7 +946,7 @@
           "title": "MoonTV",
           "href": "https://moontv-yzi.pages.dev/",
           "description": "影视聚合",
-          "icon": "/assets/img_1758341137244.png",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=moontv-yzi.pages.dev",
           "enabled": true
         }
       ],
