@@ -396,14 +396,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "b7d652bb-05d6-4569-a181-e93a0cfbf6e4",
-          "title": "Android",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
