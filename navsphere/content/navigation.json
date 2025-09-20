@@ -908,6 +908,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1758339229031",
+      "title": "自架加減用",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
