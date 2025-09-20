@@ -205,16 +205,7 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1758339741965_vq2e0ifli",
-          "title": "scrcpy: Display and control your Android device",
-          "href": "https://github.com/Genymobile/scrcpy",
-          "description": "Display and control your Android device. Contribute to Genymobile/scrcpy development by creating an account on GitHub.",
-          "icon": "/assets/favicon_1758339670198.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
@@ -412,7 +403,16 @@
           "icon": "Zap",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758339741965_vq2e0ifli",
+              "title": "Scrcpy",
+              "href": "https://github.com/Genymobile/scrcpy",
+              "description": "Display and control your Android device. Contribute to Genymobile/scrcpy development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1758339670198.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
