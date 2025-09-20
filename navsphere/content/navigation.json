@@ -908,24 +908,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1758338778971",
-      "title": "Android",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1758338864524",
-          "title": "Github",
-          "href": "https://github.com/Genymobile/scrcpy",
-          "description": "访问 github.com",
-          "icon": "/assets/favicon_1758338883872.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
